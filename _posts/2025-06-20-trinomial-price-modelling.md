@@ -71,7 +71,7 @@ p_m = 0.498582
 
 **Stock Price Tree**
 
-A stock price matrix `S` of shape $$ \((2N+1) \times (N+1)\)$$  is constructed:
+A stock price matrix `S` of shape (2N+1)*(N+1)  is constructed:
 
 ```python
 def stock_price_trinom(S0, N, u, d):
@@ -256,7 +256,7 @@ PA =
 
 ```
 
-| Option Type       | Price at $$ \( t = 0 \)$$ |
+| Option Type       | Price at t = 0 |
 |-------------------|------------------------|
 | European Call     | 10.21                  |
 | European Put      | 5.33                   |
