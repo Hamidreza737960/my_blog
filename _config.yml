@@ -7,7 +7,7 @@ description: "Here I will share some of the projects I have done." # This will s
 email: "hamidreza.lolaei@uni-wuppertal.de"
 twitter_username: "twitteruser"
 github_username: "githubuser"
-linkedin_username: "https://www.linkedin.com/in/hamidreza-lolaei/"
+linkedin_username: ""
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -36,7 +36,7 @@ titles_from_headings:
 
 defaults:
   - scope:
-      path: ""
+      path: "_posts"
       type: post
     values:
       tags: Other
