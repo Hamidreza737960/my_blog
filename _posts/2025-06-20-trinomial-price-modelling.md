@@ -35,9 +35,9 @@ d_t   = T / N # Time step size
 
 We calculate the up/down multipliers:
 
-$
+$$
 \int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
-$
+$$
 
 
 ```python
